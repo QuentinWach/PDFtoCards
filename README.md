@@ -15,7 +15,7 @@ ChatGPT is used for understanding the content and MathPix to extract equations a
 3. Run the script!
 
 ### 📂 Dependencies
-As such, you will need to install the following two libraries ``openai``, ``pypdf``, and get API keys for ``ChatGPT``  and ``MathPix``. Beware that using both will cost money. Even large textbooks will only cost a few cent though and the decks will be done in minutes not weeks!
+You will need to install the following two libraries ``openai``, ``pypdf``, and get API keys for ``ChatGPT``  and ``MathPix``. Beware that using both will cost money. Even large textbooks will only cost a few cent though and the decks will be done in minutes not weeks!
 
 ---
 This is the hacky bare bone version of the software I had written last year trying to add a bunch more features and creating a web app. But I am not a web developer and so eventually lost interest when OpenAI kept releasing more and more cool stuff that made this seem not all that special. I learned a lot about web dev though and if this little thing helped and you like it, come to tell me on [X (formerly Twitter) @quentinwach](https://twitter.com/QuentinWach) 👋🏻.
